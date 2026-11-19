@@ -19,7 +19,7 @@
 
 # production
 /build
-
+my-next-app/
 # misc
 .DS_Store
 *.pem
